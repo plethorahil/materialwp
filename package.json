@@ -4,6 +4,8 @@
   "description": "Material Design Bootstrap 4 WordPress Theme",
   "main": "",
   "author": "Brad Williams",
+  "license": "MIT",
+  "repository": "http://localhost",
   "devDependencies": {
     "bootstrap": "^4.1.3",
     "bootstrap-material-design": "^4.1.1",
